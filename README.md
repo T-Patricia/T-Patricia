@@ -4,6 +4,6 @@
 
 🌱 I’m currently on a frontend career path on Scrimba, focused on mastering HTML and CSS to solidify my foundation. I'm preparing to dive into JavaScript soon, as the next step in my journey to becoming a well-rounded frontend developer.
 
-📫 Feel free to reach out via LinkedIn. https://www.linkedin.com/in/patr%C3%ADcia-telek-635996327/
+📫 Feel free to reach out via LinkedIn. https://www.linkedin.com/in/patricia-telek/
 
 ⚡ Fun fact: I'm a design enthusiast who enjoys merging creativity with technology. In my free time, I love to experiment with DIY projects and crafting, which fuels my imagination and sharpens my eye for detail.
