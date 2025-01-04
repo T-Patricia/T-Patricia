@@ -17,10 +17,10 @@ I'm a passionate beginner developer with a strong commitment to mastering my ski
 
 ## Rapidfire
 
-- 🌱 I’m currently on a frontend career path on Scrimba, focused on mastering HTML and CSS to solidify my foundation.
+- 🌱 I’m currently on a frontend career path on Scrimba, focused on mastering HTML, CSS and JavaScript to solidify my foundation.
 
 
-- 🕶️ I'm preparing to dive into JavaScript soon, as the next step in my journey.
+- 🕶️ I'm preparing to dive into React soon, as the next step in my journey.
 
 
 - ⚡ I'm a design enthusiast who enjoys merging creativity with technology. In my free time, I love to experiment with DIY projects and crafting, which fuels my imagination and sharpens my eye for detail.
