@@ -12,18 +12,18 @@
 ### Glad to see you here!
 I'm a passionate beginner developer with a strong commitment to mastering my skills. While I'm at the start of my coding journey, my drive for excellence and attention to detail push me to constantly improve. I believe that even the smallest detail can make a big difference, and I’m always motivated to find the most effective and elegant solutions.
 
-👀 I’m interested in expanding my knowledge of frontend development and enhancing user experiences with visually appealing, responsive interfaces. I'm dedicated to self-improvement and currently focusing on JavaScript frameworks and web performance optimization. In my free time, I unwind by playing video games, which helps me sharpen my problem-solving skills, attention to detail, and ability to stay focused—traits I apply to my coding projects as well.
+👀 I’m interested in expanding my knowledge of Frontend Development and enhancing User Experiences with visually appealing, responsive interfaces. I'm dedicated to self-improvement and currently focusing on JavaScript frameworks and web performance optimization. In my free time, I unwind by playing video games, which helps me sharpen my problem-solving skills, attention to detail, and ability to stay focused—traits I apply to my coding projects as well.
 
 
 ## Rapidfire
 
-- 🌱 I’m currently on a frontend career path on Scrimba, focused on mastering HTML, CSS and JavaScript to solidify my foundation.
+- 🌱 I’m currently on a Frontend Career Path on Scrimba, primarily focused on mastering HTML, CSS and JavaScript to solidify my foundation.
 
 
-- 🕶️ I'm preparing to dive into React soon, as the next step in my journey.
+- 🕶️ I'm deep diving in React and Tailwind CSS right now, as the next step in my journey. Really excited to finish the whole course and land a job in this field as a Junior Frontend Developer.
 
 
-- ⚡ I'm a design enthusiast who enjoys merging creativity with technology. In my free time, I love to experiment with DIY projects and crafting, which fuels my imagination and sharpens my eye for detail.
+- ⚡ I'm a design enthusiast who enjoys merging creativity with technology. In my free time, I love to experiment with DIY projects and crafting, which fuels my imagination and sharpens my eye for detail. My long term goals including to learn more about this topic, experiment with different colors, shapes, layouts, animations, and be able to create aesthetic designs.
 
 
 
