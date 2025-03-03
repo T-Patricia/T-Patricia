@@ -17,10 +17,10 @@ I'm a passionate beginner developer with a strong commitment to mastering my ski
 
 ## Rapidfire
 
-- 🌱 I’m currently on a Frontend Career Path on Scrimba, primarily focused on mastering HTML, CSS and JavaScript to solidify my foundation.
+- 🌱 I’m currently on a Frontend Career Path on Scrimba, primarily focused on mastering HTML, CSS, JavaScript and React to solidify my foundation.
 
 
-- 🕶️ I'm deep diving in React and Tailwind CSS right now, as the next step in my journey. Really excited to finish the whole course and land a job in this field as a Junior Frontend Developer.
+- 🕶️ I'm deep diving in Advanced React right now, as the next step in my journey. Really excited to finish the whole course and land a job in this field as a Junior Frontend Developer. After I finished the Frontend Career Path, I would like to study about Tailwind CSS, SASS CSS, TypeScript, and UI/UX design.
 
 
 - ⚡ I'm a design enthusiast who enjoys merging creativity with technology. In my free time, I love to experiment with DIY projects and crafting, which fuels my imagination and sharpens my eye for detail. My long term goals including to learn more about this topic, experiment with different colors, shapes, layouts, animations, and be able to create aesthetic designs.
